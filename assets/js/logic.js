@@ -1,4 +1,4 @@
-var butTopics = ["thumper", "motorcycles", "supermoto", "wrc", "panda", "chimpanzee", "PnR", "southpark", "rocketleague", "sloths", "doot", "baby-groot"];
+var butTopics = ["motorcycles", "supermoto", "wrc", "panda", "chimpanzee", "PnR", "southpark", "rocketleague", "sloths", "doot", "baby-groot"];
 
 
 
