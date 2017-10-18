@@ -1,0 +1,27 @@
+body{
+	background-image: url("../img/intersection.png");
+	background-repeat: repeat;
+	padding: 20px;
+}
+
+h3{
+	margin: 0 auto;
+}
+
+.button{
+	margin : 10px;
+}
+
+.poster{
+	margin: 20px;
+	display: inline-block;
+}
+
+.gif{
+	margin: 2px;
+}
+
+#topic-form{
+	display: block;
+	margin: 10px;
+}
